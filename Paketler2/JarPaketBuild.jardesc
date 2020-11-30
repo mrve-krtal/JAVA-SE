@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Cp1254" standalone="no"?>
+<jardesc>
+    <jar path="Paketler2/jar/paketlerJar.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Paketler2/JarPaketBuild.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/Paketler2/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Paketler2/src"/>
+        <file path="/Paketler2/.project"/>
+        <file path="/Paketler2/.classpath"/>
+    </selectedElements>
+</jardesc>
