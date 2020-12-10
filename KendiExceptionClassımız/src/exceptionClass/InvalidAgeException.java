@@ -7,7 +7,7 @@ public class InvalidAgeException extends IOException {
 	@Override
 	public void printStackTrace() {
 		
-		super.printStackTrace();
+		System.out.println("Bu bir invalid age hatasıdır..");
 	}
 
 }
